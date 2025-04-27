@@ -21,7 +21,7 @@
             <tr>
                 <td>{{ $loop->iteration }}</td>
                 <td>{{ $s->nama_pemilik }}</td>
-                <td>{{ $s->no_polisi }}</td>
+                <td>{{ $s->nomor_polisi }}</td>
                 <td>{{ $s->jenis_kendaraan }}</td>
                 <td>{{ $s->tanggal_servis }}</td>
                 <td>
