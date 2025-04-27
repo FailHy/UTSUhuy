@@ -7,7 +7,7 @@
 
 ## 📖 Deskripsi Projek
 
-Projek ini adalah aplikasi sederhana berbasis Laravel 10, yang mengelola data servis kendaraan menggunakan konsep:
+Projek ini adalah aplikasi sederhana berbasis Laravel 12, yang mengelola data servis kendaraan menggunakan konsep:
 
 -   **CRUD** (Create, Read, Update, Delete)
 -   **Soft Delete** (menghapus tanpa benar-benar menghilangkan data)
