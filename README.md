@@ -32,7 +32,7 @@ Aplikasi ini dilengkapi dengan fitur:
 
 ## 🛠️ Teknologi yang Digunakan
 
--   Laravel 10
+-   Laravel 12
 -   Bootstrap 5
 -   PHP 8
 -   MySQL (Database)
